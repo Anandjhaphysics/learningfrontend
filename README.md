@@ -1,2 +1,2 @@
-# learningfrontend
-All the code related to frontend course which i took
+# digitalrsume
+All the code related to my digitalresume
