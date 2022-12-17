@@ -1,2 +1,2 @@
 # digitalrsume
-All the code related to my digitalresume
+All the code of the digitalresume
